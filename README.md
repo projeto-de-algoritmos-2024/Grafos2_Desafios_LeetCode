@@ -1,45 +1,64 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Desafios LeetCode: Grafos
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+**Número da Lista**: X  
+**Conteúdo da Disciplina**: Grafos 1  
 
-# NomedoProjeto
+## 👥 Alunos
+| Matrícula   | Aluno           |
+|-------------|------------------|
+| 18/0098080  | Arthur Trindade  |
+| 20/2023968  | Miguel Moreira   |
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+## 📝 Sobre
+Este repositório contém a solução de três desafios de grafos do juiz online LeetCode. Foram resolvidas as questões difíceis de números **1579** e **1761**, e a questão de dificuldade média número **797**.
 
-## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+**Tecnologias Utilizadas**: Javascript e Python
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+### Desafios Solucionados
+| Código | Desafio                                                                                                     | Dificuldade |
+|--------|-------------------------------------------------------------------------------------------------------------|-------------|
+| 1579   | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/) | Difícil     |
+| 1761   | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/) | Difícil     |
+| 797   | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)                           | Média       |
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## 📸 Screenshots
+<p align="center">
+  <img src="img/1579.png" alt="Resultado da submissão do desafio 1579">
+</p>
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+<p align="center">
+  Resultado da submissão da solução para o desafio 1579.
+</p>
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+<p align="center">
+  <img src="img/1761.png" alt="Resultado da submissão do desafio 1761">
+</p>
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+<p align="center">
+  Resultado da submissão da solução para o desafio 1761.
+</p>
+
+<p align="center">
+  <img src="img/797.png" alt="Resultado da submissão do desafio 797">
+</p>
+
+<p align="center">
+  Resultado da submissão da solução para o desafio 797.
+</p>
 
 
+## 🚀 Uso
+Para testar cada desafio:
+1. Clique no link do desafio na tabela de questões da seção **Sobre**.
+2. Cole o código referente ao desafio no campo de texto disponível na página do LeetCode.
+3. Clique em **Run** para rodar a solução.
 
+## 📚 Outros
+Este projeto visa exercitar conceitos de grafos, abordando diferentes níveis de dificuldade em problemas propostos no LeetCode, focando em construção de grafos, manipulação de arestas e algoritmos de otimização.
 
+## 🎥 Entrega de Vídeo
+
+Para complementar a explicação das soluções e facilitar o entendimento dos conceitos aplicados em cada desafio, incluímos uma apresentação em vídeo.
+
+### 📹 Link para o Vídeo
+[Entrega de Grafos 1](https://youtu.be/UfoFLqZOPqU)
