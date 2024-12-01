@@ -1,7 +1,7 @@
 # Desafios LeetCode: Grafos
 
-**Número da Lista**: X  
-**Conteúdo da Disciplina**: Grafos 1  
+**Número da Lista**: 46 
+**Conteúdo da Disciplina**: Grafos 2  
 
 ## 👥 Alunos
 | Matrícula   | Aluno           |
@@ -15,14 +15,14 @@ Este repositório contém a solução de três desafios de grafos do juiz online
 **Tecnologias Utilizadas**: Javascript e Python
 
 ### Desafios Solucionados
-| Código | Desafio                                                                                                     | Dificuldade |
+<!-- | Código | Desafio                                                                                                     | Dificuldade |
 |--------|-------------------------------------------------------------------------------------------------------------|-------------|
 | 1579   | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/) | Difícil     |
 | 1761   | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/) | Difícil     |
-| 797   | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)                           | Média       |
+| 797   | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)                           | Média       | -->
 
 ## 📸 Screenshots
-<p align="center">
+<!-- <p align="center">
   <img src="img/1579.png" alt="Resultado da submissão do desafio 1579">
 </p>
 
@@ -44,7 +44,7 @@ Este repositório contém a solução de três desafios de grafos do juiz online
 
 <p align="center">
   Resultado da submissão da solução para o desafio 797.
-</p>
+</p> -->
 
 
 ## 🚀 Uso
@@ -61,4 +61,4 @@ Este projeto visa exercitar conceitos de grafos, abordando diferentes níveis de
 Para complementar a explicação das soluções e facilitar o entendimento dos conceitos aplicados em cada desafio, incluímos uma apresentação em vídeo.
 
 ### 📹 Link para o Vídeo
-[Entrega de Grafos 1](https://youtu.be/UfoFLqZOPqU)
+<!-- [Entrega de Grafos 1](https://youtu.be/UfoFLqZOPqU) -->
