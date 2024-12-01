@@ -10,16 +10,17 @@
 | 20/2023968  | Miguel Moreira   |
 
 ## 📝 Sobre
-Este repositório contém a solução de três desafios de grafos do juiz online LeetCode. Foram resolvidas as questões difíceis de números **1579** e **1761**, e a questão de dificuldade média número **797**.
+Este repositório contém a solução de quatro desafios de grafos do juiz online LeetCode. Foram resolvidas as questões difíceis de números **847** e **xxx**, e as questões de dificuldade média de número **684** e **743**.
 
-**Tecnologias Utilizadas**: Javascript e Python
+**Tecnologias Utilizadas**: C e Python
 
 ### Desafios Solucionados
-<!-- | Código | Desafio                                                                                                     | Dificuldade |
-|--------|-------------------------------------------------------------------------------------------------------------|-------------|
-| 1579   | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/) | Difícil     |
-| 1761   | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/) | Difícil     |
-| 797   | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)                           | Média       | -->
+| Código | Desafio                                                                                                      | Dificuldade |
+|--------|--------------------------------------------------------------------------------------------------------------|-------------|
+| 847    | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) | Difícil     |
+|        |                                                                                                              | Difícil     |
+| 743    | [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)                          | Média       |
+| 684    | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/)                      | Média       |
 
 ## 📸 Screenshots
 <!-- <p align="center">
