@@ -10,7 +10,7 @@
 | 20/2023968  | Miguel Moreira   |
 
 ## 📝 Sobre
-Este repositório contém a solução de quatro desafios de grafos do juiz online LeetCode. Foram resolvidas as questões difíceis de números **847** e **xxx**, e as questões de dificuldade média de número **684** e **743**.
+Este repositório contém a solução de quatro desafios de grafos do juiz online LeetCode. Foram resolvidas as questões difíceis de números **847** e **2322**, e as questões de dificuldade média de número **684** e **743**.
 
 **Tecnologias Utilizadas**: C e Python
 
@@ -18,7 +18,7 @@ Este repositório contém a solução de quatro desafios de grafos do juiz onlin
 | Código | Desafio                                                                                                      | Dificuldade |
 |--------|--------------------------------------------------------------------------------------------------------------|-------------|
 | 847    | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) | Difícil     |
-|        |                                                                                                              | Difícil     |
+| 2322   | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/) | Difícil     |
 | 743    | [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)                          | Média       |
 | 684    | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/)                      | Média       |
 
