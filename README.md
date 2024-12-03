@@ -70,5 +70,5 @@ Este projeto visa exercitar conceitos de grafos, abordando diferentes níveis de
 Para complementar a explicação das soluções e facilitar o entendimento dos conceitos aplicados em cada desafio, incluímos uma apresentação em vídeo.
 
 ### 📹 Link para o Vídeo
-[Entrega de Grafos 2 (847 e 684)](https://youtu.be/9S6w02Sk8Sc) <br>
+[Entrega de Grafos 2 (847 e 684)](https://youtu.be/9S6w01Sk8Sc) <br>
 [Entrega de Grafos 2 (2322 e 743)](https://youtu.be/WYRNyRq0BjY)
