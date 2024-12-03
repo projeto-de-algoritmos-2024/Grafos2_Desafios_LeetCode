@@ -23,29 +23,37 @@ Este repositório contém a solução de quatro desafios de grafos do juiz onlin
 | 684    | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/)                      | Média       |
 
 ## 📸 Screenshots
-<!-- <p align="center">
-  <img src="img/1579.png" alt="Resultado da submissão do desafio 1579">
+<p align="center">
+  <img src="img/847.jpeg" alt="Resultado da submissão do desafio 847">
 </p>
 
 <p align="center">
-  Resultado da submissão da solução para o desafio 1579.
+  Resultado da submissão da solução para o desafio 847.
 </p>
 
 <p align="center">
-  <img src="img/1761.png" alt="Resultado da submissão do desafio 1761">
+  <img src="img/2322.png" alt="Resultado da submissão do desafio 2322">
 </p>
 
 <p align="center">
-  Resultado da submissão da solução para o desafio 1761.
+  Resultado da submissão da solução para o desafio 2322.
 </p>
 
 <p align="center">
-  <img src="img/797.png" alt="Resultado da submissão do desafio 797">
+  <img src="img/743.jpg" alt="Resultado da submissão do desafio 743">
 </p>
 
 <p align="center">
-  Resultado da submissão da solução para o desafio 797.
-</p> -->
+  Resultado da submissão da solução para o desafio 743.
+</p>
+
+<p align="center">
+  <img src="img/684.jpeg" alt="Resultado da submissão do desafio 684">
+</p>
+
+<p align="center">
+  Resultado da submissão da solução para o desafio 684.
+</p>
 
 
 ## 🚀 Uso

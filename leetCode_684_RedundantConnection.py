@@ -1,7 +1,7 @@
 class Solution(object):
-    def findRedundantConnection(self, arestas):
+    def findRedundantConnection(self, edges):
         # Inicializa o array de pais onde cada nó é seu próprio pai
-        n = len(arestas)
+        n = len(edges)
         pai = [i for i in range(n + 1)]  # Índices de 0 a n
 
         # Função recursiva para encontrar o representante do conjunto que contém o nó 'u'
@@ -20,7 +20,7 @@ class Solution(object):
             return True
 
         # Percorre cada aresta e tenta unir os conjuntos
-        for u, v in arestas:
+        for u, v in edges:
             if not unir(u, v):
                 # Aresta redundante encontrada
                 return [u, v]
